@@ -8,3 +8,4 @@ plotly>=5.15.0
 pandas>=2.0.0
 google-api-python-client>=2.0.0
 notion-client>=2.0.0 
+langchain-google-genai
